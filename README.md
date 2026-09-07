@@ -30,3 +30,7 @@ Coming soon — I will add my projects here.
 - Build useful real-world projects
 - Improve my programming skills
 - Contribute to open-source projects
+- https://img.shields.io/badge/python
+- https://img.shields.io/badge/java
+- https://img.shields.io/badge/ds
+
